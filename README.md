@@ -1,2 +1,2 @@
 # Mimicking-banking-system
-Banking system built with Java
+Banking system based on Java
